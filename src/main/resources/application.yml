@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+monitoring:
+  kafka:
+    bootstrap-server:
+  file-dir: /kafka-topics/asis.txt
+  slack:
+    token:
+    channel-name:
+
+logging:
+  level:
+    com.lzdk.monitoring: debug
