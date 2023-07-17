@@ -35,8 +35,8 @@ Skip the explanation on how to install Kafka and create a Slack app.
 ## output snapshot
 ![slack_notification](https://tnfhrnsss.github.io/docs/sub-projects/img/kafka_topic_slack_notification.png)
 
-### Reference Documentation
+### blog reference
 
 For further reference, please consider the following sections:
 
-* [Official documentation](https://tnfhrnsss.github.io/docs/sub-projects/kafka_topic_slack_notification/)
+* [blog](https://tnfhrnsss.github.io/docs/sub-projects/kafka_topic_slack_notification/)
